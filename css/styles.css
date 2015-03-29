@@ -1,0 +1,19 @@
+body {
+  background-color: #F6FFF8;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #3CCFAE;
+}
+
+.page {
+	text-align: center;
+}
+
+.accent {
+	color: #92F1D7;
+}
+
+#logo {
+	width: 160px;
+	margin-top: 200px;
+}
